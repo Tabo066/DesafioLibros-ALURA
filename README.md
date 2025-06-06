@@ -1,5 +1,5 @@
 # DesafioLibros-ALURA
-App en Springboot java implementando una API de consulta de libros agregando una base de datos local en PostgreSQL 
+App en Springboot java implementando una API de consulta de libros agregando una base de datos local en PostgreSQL <br>
 Detalles: configuré algunas cosas diferentes a lo que sugeria el trello y a lo aprendido en clase por una cuestion de comodidad personal. <br> 
 Por ejemplo el uso de @JsonAlias me estaba complicando el mapeo de la respuesta de la api en mi aplicacion por lo que hice el mapeo como viene en el Json. <br>
 La manera en la cual se guardan los libros buscados en la base de datos local es mediante el Id, lo configure asi para que sea mas puntual. <br>
